@@ -1,0 +1,8 @@
+
+#ErrorDocument 400 http://netmast.ddns.net:8080/pendencias/
+#ErrorDocument 401 http://netmast.ddns.net:8080/pendencias/
+#ErrorDocument 403 http://netmast.ddns.net:8080/pendencias/
+#ErrorDocument 404 http://netmast.ddns.net:8080/pendencias/
+#ErrorDocument 500 http://netmast.ddns.net:8080/pendencias/
+
+#Options All -Indexes
