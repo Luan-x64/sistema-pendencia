@@ -9,7 +9,7 @@ Sistema para gerênciamento de pendência.
 	- Condição de pagamento
 	- Data de inclusão/alteração
 
-Técnologias usadas:
+# Técnologias usadas:
 - php
 - javascript
 - mysql
