@@ -20,8 +20,8 @@ Sistema para gerênciamento de pendência.
 #Imagens
 
 ![image](https://user-images.githubusercontent.com/93299444/154814242-9409193f-045f-4284-be55-02ffe8d2e190.png)
-![image](https://user-images.githubusercontent.com/93299444/154814298-dd84fd87-90f6-40a9-9fb9-0a5d9fd1aa10.png)
-![image](https://user-images.githubusercontent.com/93299444/154814359-743ab20b-16e6-436d-bbc1-30a024998a97.png)
+![image](https://user-images.githubusercontent.com/93299444/154814450-f3afcfc8-e05c-4428-a458-faf992dde134.png)
+![image](https://user-images.githubusercontent.com/93299444/154814485-75a535a4-8975-46ff-a298-22636063dd19.png)
 ![image](https://user-images.githubusercontent.com/93299444/154814414-cb2332a6-9fd3-452a-8c94-185596d97f5d.png)
 ![image](https://user-images.githubusercontent.com/93299444/154814424-aca3070e-84a0-4334-b352-22b198946a33.png)
 
